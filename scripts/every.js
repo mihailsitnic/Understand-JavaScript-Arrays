@@ -1,3 +1,5 @@
+'use strict';
+
 /* Array.prototype.every();
 /* every - используется для проверки массива.
 /* возвращает true, если вызов callback вернёт true для каждого элемента arr.
